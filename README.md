@@ -1,6 +1,6 @@
 # 📘 DSA Practice — 90 Day Plan
 
-**Start Date:** [19-0-2026]
+**Start Date:** [20-0-2026]
 **Target:** Become interview-ready by [31-07-2026]
 
 ---
@@ -9,7 +9,7 @@
 
 | Topic            | Problems Solved | Status         |
 | ---------------- | --------------- | -------------- |
-| Arrays + Hashing | 1               | 🟡 In Progress |
+| Arrays + Hashing | 5               | 🟡 In Progress |
 | Two Pointers     | 0               | ⬜ Not Started  |
 | Binary Search    | 0               | ⬜ Not Started  |
 | Sliding Window   | 0               | ⬜ Not Started  |
@@ -27,8 +27,8 @@
 
 ## 📈 Stats
 
-* **Total Solved:** 1
-* **Easy:** 1
+* **Total Solved:** 5
+* **Easy:** 5
 * **Medium:** 0
 * **Hard:** 0
 
