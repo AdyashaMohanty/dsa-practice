@@ -9,7 +9,7 @@
 
 | Topic            | Problems Solved | Status         |
 | ---------------- | --------------- | -------------- |
-| Arrays + Hashing | 5               | 🟡 In Progress |
+| Arrays + Hashing | 10              | 🟡 In Progress |
 | Two Pointers     | 0               | ⬜ Not Started  |
 | Binary Search    | 0               | ⬜ Not Started  |
 | Sliding Window   | 0               | ⬜ Not Started  |
@@ -27,8 +27,8 @@
 
 ## 📈 Stats
 
-* **Total Solved:** 5
-* **Easy:** 5
+* **Total Solved:** 10
+* **Easy:** 10
 * **Medium:** 0
 * **Hard:** 0
 
